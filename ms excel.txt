@@ -1,0 +1,8 @@
+MS-EXCEL----> ms excel is a spread sheet program software.
+
+USES---->budgets,graphs and charts..simple and complex calculation.etc...
+
+
+rows---> left to right(horizontally) XFD is the last row.
+
+columns--->top to bottom (vertically) 10,48,576 is the last column.
