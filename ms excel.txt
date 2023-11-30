@@ -6,3 +6,5 @@ USES---->budgets,graphs and charts..simple and complex calculation.etc...
 rows---> left to right(horizontally) XFD is the last row.
 
 columns--->top to bottom (vertically) 10,48,576 is the last column.
+
+i have an idea fo using chatgpt in git hub
