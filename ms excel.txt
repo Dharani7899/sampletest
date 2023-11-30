@@ -8,3 +8,8 @@ rows---> left to right(horizontally) XFD is the last row.
 columns--->top to bottom (vertically) 10,48,576 is the last column.
 
 i have an idea fo using chatgpt in git hub
+<html>
+<body>
+<img src="C:\Users\dhara\AppData\Local\Programs\Python\Python311" width="30" height="40" alt="excel image">
+</body>
+</html>
